@@ -1,3 +1,5 @@
+For the [DigitalOcean](https://digitalocean.com/) [Kubernetes](https://kubernetes.io/) Challenge, I wanted to deploy a database to a managed Kubernetes cluster, and decided to go with [CockroachDB](https://www.cockroachlabs.com/).
+
 # Deploy CockroachDB in Kubernetes Cluster
 
 You can easily deploy CockroachDB highly scalabale cluster on DigitalOcean Kubernetes Platform.
